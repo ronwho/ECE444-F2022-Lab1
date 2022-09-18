@@ -1,6 +1,5 @@
 def main():
-    print('4 years')
-
+    print('Ron Hu has been in UofT for 4 years')
     return
 
 if __name__ == "__main__":
