@@ -5,6 +5,8 @@ Ron Hu 1004957424
 
 Lab Partner Repo Link: https://github.com/AndrewMinyoungKim/ECE444-F2022-Lab1
 
+Education Pathways Personal Repo Link: https://github.com/ronwho/ECE444-F2022-EP
+
 ### Screenshots
 
 ![](/screenshots/activity_1_screenshot.png)
